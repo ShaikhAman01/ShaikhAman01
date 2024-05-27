@@ -5,7 +5,7 @@
 </br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhaman01&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhaman01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhaman01&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhaman01" /></p>
 
 <p align="left"> <a href="https://twitter.com/shaikhaman01" target="blank"><img src="https://img.shields.io/twitter/follow/shaikhaman01?logo=twitter&style=for-the-badge" alt="shaikhaman01" /></a> </p>
 
@@ -17,14 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/shaikhaman01" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to"></a>
-<a href="https://twitter.com/shaikhaman01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://linkedin.com/in/shaikhaman01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@ShaikhAman01" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-
-
-
-
 
 </p>
 
@@ -92,9 +85,3 @@
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhaman01&show_icons=true&locale=en&layout=compact&theme=dark" alt="shaikhaman01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhaman01&show_icons=true&locale=en&theme=dark" alt="shaikhaman01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhaman01&theme=dark" alt="shaikhaman01" /></p>
