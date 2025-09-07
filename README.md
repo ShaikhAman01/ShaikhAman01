@@ -32,7 +32,3 @@
   <a href="https://twitter.com/shaikhaman01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/></a>
   <a href="mailto:amanshaikh0025@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-⭐️ From [Shaikh Aman](https://github.com/shaikhaman01)
